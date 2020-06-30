@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/Files?filename=xxx.txt",
+      "launchUrl": "api/Files?filename=vasya.txt",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
